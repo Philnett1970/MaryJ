@@ -13,7 +13,8 @@ sad_words = ["sad", "depressed", "depressing", "not happy", "mad"]
 starter_encouragements = [
   "Cheer Up!",
   "Hang in there.",
-  "Don't give up stay strong"
+  "Don't give up stay strong",
+  "I believe"
 ]
 
 def get_quote():
